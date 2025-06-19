@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- cores claras usadas no cardview -->
+    <color name="pink">#cb7ca2</color>
+    <color name="rose">#ed9da1</color>
+    <color name="verde1">#c9e5af</color>
+    <color name="verde2">#dceeb1</color>
+    <color name="rosa">#fef9f6</color>
+    <color name="bege">#f7f3cf</color>
+    <color name="verde3">#c2e4cb</color>
+</resources>
