@@ -19,4 +19,6 @@ class ChatActivity : AppCompatActivity() {
     }
 
     fun enviarMensagem(){}
+
+    fun enviarImagem(){}
 }
