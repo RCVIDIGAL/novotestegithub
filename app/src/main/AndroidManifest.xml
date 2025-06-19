@@ -13,6 +13,12 @@
         android:theme="@style/Theme.NovoTesteGitHub"
         tools:targetApi="31">
         <activity
+            android:name=".PagamentoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChatActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
